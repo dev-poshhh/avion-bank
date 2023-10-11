@@ -21,7 +21,7 @@ const DATA = [
   },
   {
     email: "laylacorar@gmail.com",
-    password: "abc123",
+    password: "corar2@1",
     fullname: "Layla Kyla Corar",
     type: "Savings Peso",
     number: "47290539482",
